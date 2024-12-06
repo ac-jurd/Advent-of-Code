@@ -6,7 +6,7 @@ My personal solutions to Advent of Code questions.
 - [x] Task 2
 - [x] Task 3
 - [x] Task 4
-- [ ] Task 5
+- [x] Task 5
 - [ ] Task 6
 - [ ] Task 7
 - [ ] Task 8
